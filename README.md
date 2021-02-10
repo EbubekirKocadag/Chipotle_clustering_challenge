@@ -44,3 +44,18 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 
 - [ ] Color coded cluster visualization
 - [ ] Clear graph legends
+
+## Description
+
+## Usage
+## Installation
+
+The needed libraries are in the requirement.txt. To install it, use the command below:
+`python -m pip install -r requirements.txt`
+
+Links to the official documentation of libraries :
+[geopandas](https://geopandas.org/)
+[matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
+[numpy](https://numpy.org/doc/stable/)
+[pandas](https://pandas.pydata.org/docs/)
+[seaborn](https://seaborn.pydata.org/tutorial.html)
