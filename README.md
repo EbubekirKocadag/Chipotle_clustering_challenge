@@ -54,7 +54,7 @@ If you want play golf with your best friend choose this location in Floride
 
 #### Kmeans
 
-<img src="../plots/kmeans_25.png" align="left" width"450"/>
+![img]("../plots/kmeans_25.png")
 
 #### DBSCAN
 
@@ -78,7 +78,7 @@ If you want play golf with your best friend choose this location in Floride
 
 #### Affinity propagation
 
-<img src="../plots/chips_affinity_propagation.jpg" align="left" width"450"/>
+![img]("../plots/chips_affinity_propagation.jpg")
 
 ## Usage
 
