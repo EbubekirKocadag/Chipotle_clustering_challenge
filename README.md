@@ -32,21 +32,23 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 
 - [X] A visualization of the USA with Chipotle locations
 - [X] Visualization of the different clusters
-- [ ] Intrinsic analysis comparison of the clusters of at least 2 methods with varying arguments (using Euclidean distance as criteria)
-- [ ] A chosen centroid to live. Make your argument of why the chosen centroid is superior to others. Examples of arguments are:
-    - [ ] highest density
-    - [ ] greatest uninterrupted link of Chipotle locations with smallest link-to-link distance
-    - [ ] ...
-- [ ] a GitHub page where results are visualized
+- [X] Intrinsic analysis comparison of the clusters of at least 2 methods with varying arguments (using Euclidean distance as criteria)
+- [X] A chosen centroid to live. Make your argument of why the chosen centroid is superior to others. Examples of arguments are:
+    - [X] highest density
+    - [X] greatest uninterrupted link of Chipotle locations with smallest link-to-link distance
+    - [X] ...
+- [X] a GitHub page where results are visualized
 
 
 ### Nice-to-have features
 
 - [X] Color coded cluster visualization
-- [ ] Clear graph legends
+- [X] Clear graph legends
 
 ## Description
+If you want play golf with your best friend choose this location in Floride
 
+<img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" align="left" width="450"/>
 ## Usage
 ## Installation
 
@@ -54,6 +56,7 @@ The needed libraries are in the requirement.txt. To install it, use the command 
 `python -m pip install -r requirements.txt`
 
 Links to the official documentation of libraries :
+[haversine](https://pypi.org/project/haversine/)
 [geopandas](https://geopandas.org/)
 [matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
 [numpy](https://numpy.org/doc/stable/)
