@@ -31,7 +31,7 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 ### Must-have features
 
 - [X] A visualization of the USA with Chipotle locations
-- [ ] Visualization of the different clusters
+- [X] Visualization of the different clusters
 - [ ] Intrinsic analysis comparison of the clusters of at least 2 methods with varying arguments (using Euclidean distance as criteria)
 - [ ] A chosen centroid to live. Make your argument of why the chosen centroid is superior to others. Examples of arguments are:
     - [ ] highest density
@@ -42,5 +42,21 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 
 ### Nice-to-have features
 
-- [ ] Color coded cluster visualization
+- [X] Color coded cluster visualization
 - [ ] Clear graph legends
+
+## Description
+
+## Usage
+## Installation
+
+The needed libraries are in the requirement.txt. To install it, use the command below:
+`python -m pip install -r requirements.txt`
+
+Links to the official documentation of libraries :
+[geopandas](https://geopandas.org/)
+[matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
+[numpy](https://numpy.org/doc/stable/)
+[pandas](https://pandas.pydata.org/docs/)
+[seaborn](https://seaborn.pydata.org/tutorial.html)
+[sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html)
