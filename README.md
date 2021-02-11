@@ -3,9 +3,9 @@
 <img src="https://assets.stickpng.com/images/58429a9ca6515b1e0ad75ae3.png" align="left" width="250"/>
 
 ### The Dream Team
-- Christian Melot
-- Jérôme Coumont
-- Ebubekir Kocadag
+- [Christian Melot](https://github.com/Ezamey), junior AI developer
+- [Jérôme Coumont](https://github.com/jcoumont), junior AI developer
+- [Ebubekir Kocadag](https://github.com/EbubekirKocadag), junior AI developer
 
 ## The Mission
 <img src="https://media.istockphoto.com/photos/romantic-couple-eating-street-tacos-at-outdoor-mexican-restaurant-picture-id932534338?k=6&m=932534338&s=612x612&w=0&h=9RXIf7fsAEGVynwKKv0oAq5Rg8Wrg1END87XEzA0_zg=" align="left" width="450"/>
@@ -49,11 +49,46 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 If you want play golf with your best friend choose this location in Floride
 
 <img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" align="left" width="450"/>
+<br/>
+### Algorithms' comparison
+
+#### Kmeans
+
+![img]("./plots/kmeans_25.png")
+
+#### DBSCAN
+
+<img src="./plots/dbscan.png" align="left" width"450"/>
+
+#### Optics
+
+<img src="./plots/optics.png" align="left" width"450"/>
+
+#### Agglomerative
+
+<img src="./plots/agglo.png" align="left" width"450"/>
+
+#### BIRCH
+
+<img src="./plots/birch.png" align="left" width"450"/>
+
+#### Gaussian mixture
+
+<img src="./plots/gauss.png" align="left" width"450"/>
+
+#### Affinity propagation
+
+![img]("/plots/chips_affinity_propagation.jpg")
+
 ## Usage
+
+The content of the analysis is available into the different jupyter notebooks. (They use different clustering algorithms)
 ## Installation
 
 The needed libraries are in the requirement.txt. To install it, use the command below:
 `python -m pip install -r requirements.txt`
+To be able to access to the work, you have to install jupyter notebook. You have more information in [this website](https://jupyter.org/) and you can install it with this command:
+`pip install jupyterlab`
 
 Links to the official documentation of libraries :
 [haversine](https://pypi.org/project/haversine/)
@@ -63,3 +98,7 @@ Links to the official documentation of libraries :
 [pandas](https://pandas.pydata.org/docs/)
 [seaborn](https://seaborn.pydata.org/tutorial.html)
 [sklearn.cluster](https://scikit-learn.org/stable/modules/clustering.html)
+
+## Proposition
+
+
