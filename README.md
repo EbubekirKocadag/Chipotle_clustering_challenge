@@ -3,9 +3,9 @@
 <img src="https://assets.stickpng.com/images/58429a9ca6515b1e0ad75ae3.png" align="left" width="250"/>
 
 ### The Dream Team
-- Christian Melot
-- Jérôme Coumont
-- Ebubekir Kocadag
+- [Christian Melot](https://github.com/Ezamey), junior AI developer
+- [Jérôme Coumont](https://github.com/jcoumont), junior AI developer
+- [Ebubekir Kocadag](https://github.com/EbubekirKocadag), junior AI developer
 
 ## The Mission
 <img src="https://media.istockphoto.com/photos/romantic-couple-eating-street-tacos-at-outdoor-mexican-restaurant-picture-id932534338?k=6&m=932534338&s=612x612&w=0&h=9RXIf7fsAEGVynwKKv0oAq5Rg8Wrg1END87XEzA0_zg=" align="left" width="450"/>
