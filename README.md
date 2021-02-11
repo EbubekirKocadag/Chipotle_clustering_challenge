@@ -49,7 +49,7 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 If you want play golf with your best friend choose this location in Floride
 
 <img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" align="left" width="450"/>
-<br/>
+</br>
 
 ### Algorithms' comparison
 
