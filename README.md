@@ -56,6 +56,7 @@ The needed libraries are in the requirement.txt. To install it, use the command 
 `python -m pip install -r requirements.txt`
 
 Links to the official documentation of libraries :
+[haversine](https://pypi.org/project/haversine/)
 [geopandas](https://geopandas.org/)
 [matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html)
 [numpy](https://numpy.org/doc/stable/)
