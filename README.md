@@ -78,7 +78,7 @@ If you want play golf with your best friend choose this location in Floride
 
 #### Affinity propagation
 
-![img]("../plots/chips_affinity_propagation.jpg")
+![img]("plots/chips_affinity_propagation.jpg")
 
 ## Usage
 
