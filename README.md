@@ -54,31 +54,31 @@ If you want play golf with your best friend choose this location in Floride
 
 #### Kmeans
 
-![img]("./plots/kmeans_25.png")
+![img](app/plots/kmeans_25.png)
 
 #### DBSCAN
 
-<img src="./plots/dbscan.png" align="left" width"450"/>
+![img](app/plots/dbscan.png)
 
 #### Optics
 
-<img src="./plots/optics.png" align="left" width"450"/>
+![img](app/plots/optics.png)
 
 #### Agglomerative
 
-<img src="./plots/agglo.png" align="left" width"450"/>
+![img](app/plots/agglo.png)
 
 #### BIRCH
 
-<img src="./plots/birch.png" align="left" width"450"/>
+![img](app/plots/agglo.png)
 
 #### Gaussian mixture
 
-<img src="./plots/gauss.png" align="left" width"450"/>
+![img](app/plots/gauss.png)
 
 #### Affinity propagation
 
-![img]("/plots/chips_affinity_propagation.jpg")
+![img](app/plots/chips_affinity_propagation.jpg)
 
 ## Usage
 
