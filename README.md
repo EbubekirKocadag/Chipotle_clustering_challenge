@@ -49,36 +49,36 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 If you want play golf with your best friend choose this location in Floride
 
 <img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" align="left" width="450"/>
-
+<br/>
 ### Algorithms' comparison
 
 #### Kmeans
 
-<img src="plots/kmeans_25.png" align="left" width"450"/>
+<img src="../plots/kmeans_25.png" align="left" width"450"/>
 
 #### DBSCAN
 
-<img src="plots/dbscan.png" align="left" width"450"/>
+<img src="../plots/dbscan.png" align="left" width"450"/>
 
 #### Optics
 
-<img src="plots/optics.png" align="left" width"450"/>
+<img src="../plots/optics.png" align="left" width"450"/>
 
 #### Agglomerative
 
-<img src="plots/agglo.png" align="left" width"450"/>
+<img src="../plots/agglo.png" align="left" width"450"/>
 
 #### BIRCH
 
-<img src="plots/birch.png" align="left" width"450"/>
+<img src="../plots/birch.png" align="left" width"450"/>
 
 #### Gaussian mixture
 
-<img src="plots/gauss.png" align="left" width"450"/>
+<img src="../plots/gauss.png" align="left" width"450"/>
 
 #### Affinity propagation
 
-<img src="plots/chips_affinity_propagation.jpg" align="left" width"450"/>
+<img src="../plots/chips_affinity_propagation.jpg" align="left" width"450"/>
 
 ## Usage
 
