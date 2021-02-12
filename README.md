@@ -101,9 +101,9 @@ Links to the official documentation of libraries :
 
 ## Proposition
 
-We use 2 differents clustering models to give you the best place to have chipotle every days and every years.
+We use 3 different clustering models to give you the best place to have chipotle every days for the rest of your ,probably short, life.
 
-#### First clustering model
+#### First clustering model : __Kmeans__
 
 ![img](app/plots/kmeans_25_min_150.png)
 
@@ -117,7 +117,7 @@ You can choose between:
 
 ![img](app/plots/kmeans_third.png)
 
-#### Second clustering model
+#### Second clustering model :  __Gaussian__
 
 ![img](app/plots/gauss_150.png)
 
@@ -131,7 +131,7 @@ You can choose between:
 
 ![img](app/plots/gauss_third.png)
 
-#### Third clustering model
+#### Third clustering model : __Affinity Propagation__
 
 ![img](app/plots/chips_affinity_propagation_inf100.jpg)
 
