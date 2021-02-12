@@ -151,7 +151,7 @@ _Nice and Cosy in New Jersey_:
 _Hardcore_:
 ![img](app/plots/getfat.png)
 ![img](app/plots/hardcore.png)
-Not really a good location  but if [needed](https://www.decathlon.be/fr/browse/c0-tous-les-sports/c1-camping/c3-tentes-pop-up/_/N-mf86su) so you can leave your Chipotle dream life.
+Not really a good location  but if [needed](https://www.decathlon.be/fr/browse/c0-tous-les-sports/c1-camping/c3-tentes-pop-up/_/N-mf86su) so you can live your Chipotle dream life.
 
 
 -----------------------------------------
