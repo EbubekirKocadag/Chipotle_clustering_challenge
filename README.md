@@ -146,3 +146,9 @@ _Hardcore_:
 ![img](app/plots/getfat.png)
 ![img](app/plots/hardcore.png)
 Not really a good location  but if [needed](https://www.decathlon.be/fr/browse/c0-tous-les-sports/c1-camping/c3-tentes-pop-up/_/N-mf86su) so you can leave your Chipotle dream life.
+
+
+-----------------------------------------
+## A final comparative map :
+
+![img](app/plots/combined.png)
