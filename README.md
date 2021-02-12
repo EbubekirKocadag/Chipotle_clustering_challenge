@@ -1,6 +1,6 @@
 # Chipotle clustering challenge
 
-<img src="https://assets.stickpng.com/images/58429a9ca6515b1e0ad75ae3.png" align="left" width="250"/>
+<img src="app/plots/chipotle.png" alt="left" width="450"/>
 
 ### The Dream Team
 - [Christian Melot](https://github.com/Ezamey), junior AI developer
@@ -48,8 +48,7 @@ Find Chipotle **epicentres** to live your ideal Chipotle lifestyle by clustering
 ## Description
 If you want play golf with your best friend choose this location in Floride
 
-<img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" align="left" width="450"/>
-</br>
+<img src="https://www.francetvinfo.fr/image/75s4gq87o-9885/580/326/21972405.jpg" width="450"/>
 
 ### Algorithms' comparison
 
@@ -102,4 +101,32 @@ Links to the official documentation of libraries :
 
 ## Proposition
 
+We use 2 differents clustering models to give you the best place to have chipotle every days and every years.
 
+#### First clustering model
+
+![img](app/plots/kmeans_25_min_150.png)
+
+![img](app/plots/kmeans_best.png)
+
+You can choose between:
+
+![img](app/plots/kmeans_first.png)
+
+![img](app/plots/kmeans_second.png)
+
+![img](app/plots/kmeans_third.png)
+
+#### Second clustering model
+
+![img](app/plots/gauss_150.png)
+
+![img](app/plots/gauss_10.png)
+
+You can choose between:
+
+![img](app/plots/gauss_first.png)
+
+![img](app/plots/gauss_second.png)
+
+![img](app/plots/gauss_third.png)
