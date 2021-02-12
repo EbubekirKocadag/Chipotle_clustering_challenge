@@ -130,3 +130,19 @@ You can choose between:
 ![img](app/plots/gauss_second.png)
 
 ![img](app/plots/gauss_third.png)
+
+#### Third clustering model
+
+![img](app/plots/chips_affinity_propagation_inf100.jpg)
+
+![img](app/plots/affinitybest.png)
+
+
+_Nice and Cosy in New Jersey_:
+
+![img](app/plots/propsaffi1.png)
+
+_Hardcore_:
+![img](app/plots/getfat.png)
+![img](app/plots/hardcore.png)
+Not really a good location  but if [needed](https://www.decathlon.be/fr/browse/c0-tous-les-sports/c1-camping/c3-tentes-pop-up/_/N-mf86su) so you can leave your Chipotle dream life.
